@@ -33,7 +33,7 @@ TEST_CASE("Prim Test","[prim]"){
 	REQUIRE(testvector == primMinimumSpanningTree(graph));
 
 }
-/*TEST_CASE("Krushkal Test","[krushkal]"){
+TEST_CASE("Krushkal Test","[krushkal]"){
 	
 	subset* subsets = (struct subset*)malloc(5*sizeof(struct subset));
 	for(int v =0 ; v<5; ++v){
@@ -41,4 +41,4 @@ TEST_CASE("Prim Test","[prim]"){
 		subsets[v].rank = 0;
 	}
 	REQUIRE(2==find(subsets,2));
-}*/
+}
