@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testmst.dir/test_mstsolvers.o CMakeFiles/testmst.dir/krushkal.o CMakeFiles/testmst.dir/prim.o CMakeFiles/testmst.dir/filehandling.o  -o testmst -rdynamic 

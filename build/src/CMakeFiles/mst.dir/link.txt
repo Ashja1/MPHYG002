@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/mst.dir/mstsolver.o CMakeFiles/mst.dir/krushkal.o CMakeFiles/mst.dir/prim.o  -o mst -rdynamic 
